@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         禁用视频暂停 + 浮动控制面板
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  禁止网页中的视频被暂停，并提供浮动控制面板。
 // @author       chetuia
 // @match        *://*sagz.hnocc.com/*
